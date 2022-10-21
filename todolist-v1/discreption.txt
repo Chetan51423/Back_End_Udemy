@@ -1,0 +1,2 @@
+This is todolist floder.
+tis folder is create after learning got from EJS template and layouts
